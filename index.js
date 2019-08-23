@@ -1,4 +1,4 @@
-function takeANumber (line, name){
+function takeANumber (line){
   var position = line.length+1
   line.push(name)
 return "Welcome, you are number " + position +". "
