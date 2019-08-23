@@ -1,8 +1,10 @@
 function takeANumber (line){
   var position = 0
-  var n = postion + 1
+  postion = postion + 1
   line.push(n)
+  
 return "Welcome, you are number " + n +". "
+
 
  }
  
