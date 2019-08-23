@@ -7,6 +7,7 @@ return "Welcome, you are number " + n +". "
  }
  
   for(let i = 1; i<katzDeliLine.length;i++){ 
+    
  function nowServing (deliLine){
 var name;
 
