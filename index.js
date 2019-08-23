@@ -1,7 +1,8 @@
 function takeANumber (line){
-  var position = line.length+1
-  line.push(name)
-return "Welcome, you are number " + position +". "
+  var position = line.length
+  var n = postion + 1
+  line.push(n)
+return "Welcome, you are number " + n +". "
 
  }
  
