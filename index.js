@@ -1,11 +1,12 @@
 function takeANumber (line){
-  var position = line.length
+  var position = 0
   var n = postion + 1
   line.push(n)
 return "Welcome, you are number " + n +". "
 
  }
  
+  for(let i = 1; i<katzDeliLine.length;i++){ 
  function nowServing (deliLine){
 var name;
 
